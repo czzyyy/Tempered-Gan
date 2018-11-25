@@ -1,4 +1,4 @@
-# Tempered-Gan
+# Tempered-Gan(2018ICML)
 simple implementation of [Tempered Gan](https://arxiv.org/pdf/1802.04374.pdf) in Tensorflow.
 ## tempered_gan
 ### cartoon
