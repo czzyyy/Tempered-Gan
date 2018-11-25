@@ -1,5 +1,5 @@
 # Tempered-Gan
-simple implementation of Tempered Gan in Tensorflow ![url](https://arxiv.org/pdf/1802.04374.pdf)
+simple implementation of [Tempered Gan](https://arxiv.org/pdf/1802.04374.pdf) in Tensorflow.
 ## tempered_gan
 ### cartoon
 ![image](https://github.com/czzyyy/generate_model_exercise/blob/master/gan/tempered_gan/generate/cartoon_face/1generate.png)
